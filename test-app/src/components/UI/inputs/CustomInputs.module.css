@@ -1,0 +1,12 @@
+.customInput {
+    padding: 5px 15px;
+    color: rgb(0, 48, 48);
+    font-size: 14px;
+    border: 1px solid teal;
+    margin: 5px 0px;
+    width: 100%;
+}
+
+.customInput:focus {
+    outline: 1px solid rgb(0, 105, 105)
+}
